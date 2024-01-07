@@ -9,7 +9,7 @@ Wir stellen das Vault, mit dem wir unsere Präsentation vorbereitet haben hier z
 Jedoch haben wir das Plugin [Obsidian Git](https://github.com/denolehov/obsidian-git) entfernt, damit das Vault auch für einzelne Personen ein guter Startpunkt für das Studium ist.
 ## Kollaboratives Arbeiten
 Falls du und dein Team das Vault für kollaboratives Arbeiten nutzen wollt, dann zieht es in ein eigenes gemeinsames Git Repository und installiert zusätzlich noch das Community Plugin [Obsidian Git](https://github.com/denolehov/obsidian-git).
-Für ein flüssiges gemeinsames Arbeiten solltet ihr initial eine **.gitIgnore** Datei erstellen, welche die folgenden Zeilen enthält:
+Für ein flüssiges gemeinsames Arbeiten solltet ihr initial eine **.gitignore** Datei erstellen, welche die folgenden Zeilen analog zur .gitignore Datei in diesem Repository enthält:
 
 .obsidian/*
 !.obsidian/app.json
