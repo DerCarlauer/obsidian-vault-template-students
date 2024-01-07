@@ -55,8 +55,7 @@ Wir wollen schnell von A nach B kommen. Dafür brauchen wir die Startseite. Gehe
 
 Nun bist du startklar. Probiere alle Buttons auf Seite [Obsidian - Home](Obsidian%20Vault%20Administration/Obsidian%20-%20Home.md) aus, damit du ein Gefühl für die Struktur des Vaults bekommst.
 # Tipps und Tricks
-
-> [!info] Nützliche Hotkeys
->  CMD-H: Wechsel zur Seite [Obsidian - Home](Obsidian%20Vault%20Administration/Obsidian%20-%20Home.md)
->  CMD-D: Erstellt eine neue Excalidraw-Datei und öffnet diese in einem neuen Tab. Der Link zur Datei wird gleichzeitig in die vorher aktive Markdown Datei eingefügt.
->  CMD-P: Befehlspalette öffnen
+## Nützliche Hotkeys
+* CMD-H: Wechsel zur Seite [Obsidian - Home](Obsidian%20Vault%20Administration/Obsidian%20-%20Home.md)
+* CMD-D: Erstellt eine neue Excalidraw-Datei und öffnet diese in einem neuen Tab. Der Link zur Datei wird gleichzeitig in die vorher aktive Markdown Datei eingefügt.
+* CMD-P: Befehlspalette öffnen
