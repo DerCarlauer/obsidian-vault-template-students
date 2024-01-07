@@ -10,14 +10,15 @@ Jedoch haben wir das Plugin [Obsidian Git](https://github.com/denolehov/obsidian
 ## Kollaboratives Arbeiten
 Falls du und dein Team das Vault für kollaboratives Arbeiten nutzen wollt, dann zieht es in ein eigenes gemeinsames Git Repository und installiert zusätzlich noch das Community Plugin [Obsidian Git](https://github.com/denolehov/obsidian-git).
 Für ein flüssiges gemeinsames Arbeiten solltet ihr initial eine **.gitIgnore** Datei erstellen, welche die folgenden Zeilen enthält:
-`.obsidian/*
+
+.obsidian/*
 !.obsidian/app.json
 !.obsidian/appearance.json
 !.obsidian/config
 !.obsidian/community-plugins.json
 !.obsidian/core-plugins.json
 !.obsidian/graph.json
-!.obsidian/hotkeys.json`
+!.obsidian/hotkeys.json
 ## Infos zu unserem Obsidian Vault
 Damit kollaboratives Arbeiten realistischer wird, brauchen wir gute Templates und eine gute Struktur in unserem Vault. Wir lösen dass, indem wir für jede Kategorie ein Dashboard gebaut haben:
 [Dashboard - Studium](Karriere/Studium/Dashboard%20-%20Studium.md), [Dashboard - Meetings](Meetings/Dashboard%20-%20Meetings.md), [Dashboard - Menschen](Menschen/Dashboard%20-%20Menschen.md), [Dashboard - Projekte](Projekte/Dashboard%20-%20Projekte.md), [Dashboard - Tagesnotizen](Tagesnotizen/Dashboard%20-%20Tagesnotizen.md), [Dashboard - Zettelkasten](Zettelkasten/Dashboard%20-%20Zettelkasten.md)
